@@ -5,4 +5,4 @@ Created for the course Graphical User Interface Programming taught at the Univer
 
 The game was developed and compiled in Netbeans using Java Swing. 
 
-![Yahtzee](/yahtzee.jpg "Optional Title")
+
